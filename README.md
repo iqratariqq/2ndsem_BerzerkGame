@@ -1,4 +1,4 @@
-# 🎮 Berzerk RU Base Game
+# 🎮 Berzerk UI Base Game
 
 A simple **UI-based (Windows Forms)** game developed in **C#** using **Object-Oriented Programming (OOP)** concepts.  
 This project demonstrates how to build an interactive graphical game with classes, objects, and structured programming.
